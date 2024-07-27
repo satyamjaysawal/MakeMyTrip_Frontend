@@ -1,0 +1,126 @@
+{
+  "handpickedCollections": [
+    {
+      "title": "Luxury Stays in Paris for a Weekend Getaway",
+      "subtitle": "TOP 8",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphV_0oChXes769KuEBX59ItnO6__IGcRlTOYeBZsJ8RCnkD6AR7ogmr58Efp57q4dIlo&usqp=CAU"
+    },
+    {
+      "title": "Charming Stays in Rome for a Weekend Getaway",
+      "subtitle": "TOP 8",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5MRn9DG-VNUliRifm8v7QwWDq2FwAIAalAhu0vMYITWBrFOi92RLYQZOqB-Gxbqbx_1c&usqp=CAU"
+    },
+    {
+      "title": "Elegant Stays in New York for a Weekend Getaway",
+      "subtitle": "TOP 9",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD8yGxXhqzwhcmTMGK0Wt3BZpnaUHYVRE7_s7tBYMVaEmPrgj1pR9a9Lge_MkuvwlhaxY&usqp=CAU"
+    },
+    {
+      "title": "Beachfront Stays in Sydney",
+      "subtitle": "TOP 11",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmnMXSNsbRgdvJW3tTXetPbjBWYTe2x9CxlkYTafDXW3fDBO9AP1I3Ne6I___hPCcc6a8&usqp=CAU"
+    },
+    {
+      "title": "Weekend Getaways in Tokyo",
+      "subtitle": "TOP 11",
+      "image": "https://v1.tailwindcss.com/img/card-top.jpg"
+    },
+    {
+      "title": "Hill Stations in Zurich",
+      "subtitle": "TOP 11",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNw0bqheZafi0HmgIreWFD3s2TgthmQkRUmdIb-KmmyP4Jh6eME1nhjHd2zb39CKKwbmc&usqp=CAU"
+    },
+    {
+      "title": "Luxury Stays in Paris for a Weekend Getaway",
+      "subtitle": "TOP 8",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTphV_0oChXes769KuEBX59ItnO6__IGcRlTOYeBZsJ8RCnkD6AR7ogmr58Efp57q4dIlo&usqp=CAU"
+    },
+    {
+      "title": "Charming Stays in Rome for a Weekend Getaway",
+      "subtitle": "TOP 8",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5MRn9DG-VNUliRifm8v7QwWDq2FwAIAalAhu0vMYITWBrFOi92RLYQZOqB-Gxbqbx_1c&usqp=CAU"
+    },
+    {
+      "title": "Elegant Stays in New York for a Weekend Getaway",
+      "subtitle": "TOP 9",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD8yGxXhqzwhcmTMGK0Wt3BZpnaUHYVRE7_s7tBYMVaEmPrgj1pR9a9Lge_MkuvwlhaxY&usqp=CAU"
+    },
+    {
+      "title": "Beachfront Stays in Sydney",
+      "subtitle": "TOP 11",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmnMXSNsbRgdvJW3tTXetPbjBWYTe2x9CxlkYTafDXW3fDBO9AP1I3Ne6I___hPCcc6a8&usqp=CAU"
+    },
+    {
+      "title": "Weekend Getaways in Tokyo",
+      "subtitle": "TOP 11",
+      "image": "https://v1.tailwindcss.com/img/card-top.jpg"
+    },
+    {
+      "title": "Hill Stations in Zurich",
+      "subtitle": "TOP 11",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNw0bqheZafi0HmgIreWFD3s2TgthmQkRUmdIb-KmmyP4Jh6eME1nhjHd2zb39CKKwbmc&usqp=CAU"
+    }
+  ],
+  "lesserKnownWonders": [
+    {
+      "title": "Hidden Gems in Amsterdam",
+      "image": "https://tecdn.b-cdn.net/img/new/standard/city/044.webp"
+    },
+    {
+      "title": "Charming Villages in Belgium",
+      "image": "https://tecdn.b-cdn.net/img/new/standard/city/062.jpg"
+    },
+    {
+      "title": "Scenic Spots in Barcelona",
+      "image": "https://tecdn.b-cdn.net/img/new/standard/city/041.webp"
+    },
+    {
+      "title": "Quaint Towns in Prague",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEkdJH3no7bnOmktpnF1mF_3D8xiN3Ubtu7Lld8-Ibu4EbD42zOCk4CHb3qzJ9HQnOkSI&usqp=CAU"
+    },
+    {
+      "title": "Enchanting Getaways in Vienna",
+      "image": "https://m.media-amazon.com/images/I/51NGZFo00HL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "title": "Hidden Gems in Amsterdam",
+      "image": "https://tecdn.b-cdn.net/img/new/standard/city/044.webp"
+    },
+    {
+      "title": "Charming Villages in Belgium",
+      "image": "https://tecdn.b-cdn.net/img/new/standard/city/062.jpg"
+    },
+    {
+      "title": "Scenic Spots in Barcelona",
+      "image": "https://tecdn.b-cdn.net/img/new/standard/city/041.webp"
+    },
+    {
+      "title": "Quaint Towns in Prague",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEkdJH3no7bnOmktpnF1mF_3D8xiN3Ubtu7Lld8-Ibu4EbD42zOCk4CHb3qzJ9HQnOkSI&usqp=CAU"
+    },
+    {
+      "title": "Enchanting Getaways in Vienna",
+      "image": "https://m.media-amazon.com/images/I/51NGZFo00HL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "title": "Hidden Gems in Amsterdam",
+      "image": "https://tecdn.b-cdn.net/img/new/standard/city/044.webp"
+    },
+    {
+      "title": "Charming Villages in Belgium",
+      "image": "https://tecdn.b-cdn.net/img/new/standard/city/062.jpg"
+    },
+    {
+      "title": "Scenic Spots in Barcelona",
+      "image": "https://tecdn.b-cdn.net/img/new/standard/city/041.webp"
+    },
+    {
+      "title": "Quaint Towns in Prague",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEkdJH3no7bnOmktpnF1mF_3D8xiN3Ubtu7Lld8-Ibu4EbD42zOCk4CHb3qzJ9HQnOkSI&usqp=CAU"
+    },
+    {
+      "title": "Enchanting Getaways in Vienna",
+      "image": "https://m.media-amazon.com/images/I/51NGZFo00HL._AC_UF894,1000_QL80_.jpg"
+    }
+  ]
+}

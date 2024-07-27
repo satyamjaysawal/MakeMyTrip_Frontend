@@ -1,0 +1,86 @@
+[
+  {
+      "id": 1,
+      "img": "https://flowbite.com/docs/images/blog/image-1.jpg",
+      "title": "GLOBAL ESCAPES",
+      "description1": "Unbelievable Deals Await!",
+      "description2": "Save up to 35% on top international hotels."
+  },
+  {
+      "id": 2,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnHFyGj0c1K-Mk106ZGT-juvcp-4Z8aMocHw&s",
+      "title": "WORLD FLIGHTS",
+      "description1": "Change Your Plans Anytime",
+      "description2": "Get 40% OFF* on zero cancellation flights, use code: FLEXTRAVEL"
+  },
+  {
+      "id": 3,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ2oJr8oZY0uNl5esuMyJSXHOLlFXaNeL5fw&s",
+      "title": "LUXURY DOMESTIC",
+      "description1": "Exclusive Ramoji Hotel Discounts",
+      "description2": "Enjoy up to 35% OFF for a lavish stay."
+  },
+  {
+      "id": 4,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZzFANuyYwNOBsuPpNGmI9hlUJ7NdnouTQ4A&s",
+      "title": "COMFORT STAYS",
+      "description1": "Luxurious Ramoji Hotels",
+      "description2": "Get up to 35% OFF for a delightful experience."
+  },
+  {
+      "id": 5,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5AUP0QEYPglD-pSHCTSdwyEdcFXAEpDHl0A&s",
+      "title": "ELEGANT STAYS",
+      "description1": "Ramoji Hotel Specials",
+      "description2": "Book now and enjoy up to 35% OFF."
+  },
+  {
+      "id": 6,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzmMQUIca95a-HTCQQQm_unKsv6k6kXvQfBQ&s",
+      "title": "HERITAGE HAVENS",
+      "description1": "Experience RAAS Hotels",
+      "description2": "Stay 3 nights, pay for 2. Limited offer!"
+  },
+  {
+      "id": 7,
+      "img": "https://i.pinimg.com/550x/bc/74/1d/bc741db40e5cb56705c74e45d1ed0af4.jpg",
+      "title": "INTERNATIONAL LUXURY",
+      "description1": "Major Price Drops!",
+      "description2": "Save up to 35% on global hotel bookings."
+  },
+  {
+      "id": 8,
+      "img": "https://www.hospitalitynet.org/picture/xxl_153084460.jpg?t=1511872036",
+      "title": "FLEXIBLE FLYING",
+      "description1": "Worry-Free Travel",
+      "description2": "Enjoy 40% OFF* on zero cancellation flights, use code: FLYFLEX"
+  },
+  {
+      "id": 9,
+      "img": "https://travelcommunication.net/wp-content/uploads/2021/12/Marriott-International-to-Debut-over-30-New-Luxury-Hotels-in-2022-TRAVELINDEX.jpg",
+      "title": "DOMESTIC DELIGHTS",
+      "description1": "Ramoji Hotel Offers",
+      "description2": "Avail up to 35% OFF for a grand stay."
+  },
+  {
+      "id": 10,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcTH88i_qZHu-NnPIswfaTEx4B6477oWpBRL6A-mK8xfsPXWi4j-Uoxk7snLSJXSIp4Ok&usqp=CAU",
+      "title": "LOCAL LUXURY",
+      "description1": "Ramoji Hotel Discounts",
+      "description2": "Get up to 35% OFF for an elegant stay."
+  },
+  {
+      "id": 11,
+      "img": "https://img.freepik.com/free-photo/luxury-classic-modern-bedroom-suite-hotel_105762-1787.jpg?size=626&ext=jpg&ga=GA1.1.1788614524.1720742400&semt=ais_user",
+      "title": "DOMESTIC COMFORT",
+      "description1": "Ramoji Hotel Savings",
+      "description2": "Book now and get up to 35% OFF for a luxurious stay."
+  },
+  {
+      "id": 12,
+      "img": "https://flowbite.com/docs/images/blog/image-1.jpg",
+      "title": "HERITAGE LUXURY",
+      "description1": "RAAS Hotel Special Offer",
+      "description2": "Stay 3 nights, pay only for 2. Book now!"
+  }
+]
